@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi there
+
+I am Designer, Developer and Student. I love connecting brands and companies with their customers through good design.
+
+- 🌱 I’m currently learning UX by Google
+
+📫 Reach me at hello@vixniv.com
 
 <!--
 **vixniv/vixniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

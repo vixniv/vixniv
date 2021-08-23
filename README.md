@@ -2,8 +2,6 @@
 
 I am Designer, Developer and Student. I love connecting brands and companies with their customers through good design.
 
-- 🌱 I’m currently learning UX by [Google](grow.google/uxdesign/)
-
 #### 📫 Reach me at hello@vixniv.com
 
 <!--

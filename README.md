@@ -2,6 +2,8 @@
 
 I am Designer, Developer and Student. I love connecting brands and companies with their customers through good design.
 
+Tech Stacks: Javascript, Typescript, ReactJs, Redux, NextJs, MongoDb, PostgreSQL, GraphQL, NodeJs, ExpressJs, HTML, CSS, Tailwinds, Git, Golang *(currently learning)*
+
 #### 📫 Reach me at hello@vixniv.com
 
 <!--

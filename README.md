@@ -4,6 +4,9 @@ I am Designer, Developer and Student. I love connecting brands and companies wit
 
 Tech Stacks: Javascript, Typescript, ReactJs, Redux, NextJs, MongoDb, PostgreSQL, GraphQL, NodeJs, ExpressJs, HTML, CSS, Tailwinds, Git, Golang *(currently learning)*
 
+🔮 **Featured**  
+[Keep your Heroku awake for certain hours](https://github.com/vixniv/keep-awake-heroku)
+
 #### 📫 Reach me at hello@vixniv.com
 
 <!--

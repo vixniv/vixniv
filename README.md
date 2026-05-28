@@ -1,8 +1,8 @@
 ### 👋 Hi there
 
-I am Designer, Developer and Student. I love connecting brands and companies with their customers through good design.
+I'm a software engineer, designer, and lifelong learner who loves the space where great design meets solid engineering. Passionate about helping companies connect meaningfully with their customers through thoughtful, well-built products.
 
-Tech Stacks: Javascript, Typescript, ReactJs, Redux, NextJs, MongoDb, PostgreSQL, GraphQL, NodeJs, ExpressJs, HTML, CSS, Tailwinds, Git, Golang, Rust *(currently learning)*
+Tech Stacks: Javascript/Typescript, ReactJs, Redux, NextJs, MongoDB, PostgreSQL, GraphQL, NodeJs, ExpressJs, HTML, CSS, Tailwinds, Git, Golang, Rust *(currently learning)*
 
 🔮 **Featured**  
 [Keep your Heroku awake for certain hours](https://github.com/vixniv/keep-awake-heroku)
